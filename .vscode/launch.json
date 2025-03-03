@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Salarioobrero10",
+            "request": "launch",
+            "mainClass": "Salarioobrero10",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Utilidadtrabajo9",
+            "request": "launch",
+            "mainClass": "Utilidadtrabajo9",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Calificacionservsocial8",
+            "request": "launch",
+            "mainClass": "Calificacionservsocial8",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Inspro7",
+            "request": "launch",
+            "mainClass": "Inspro7",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Inspro",
+            "request": "launch",
+            "mainClass": "Inspro",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Arreglos1",
+            "request": "launch",
+            "mainClass": "Arreglos1",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Descuentopc1",
+            "request": "launch",
+            "mainClass": "Descuentopc1",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Desicionfinanzas5",
+            "request": "launch",
+            "mainClass": "Desicionfinanzas5",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Entradas",
+            "request": "launch",
+            "mainClass": "Entradas",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Fruteria4",
+            "request": "launch",
+            "mainClass": "Fruteria4",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Heladeria",
+            "request": "launch",
+            "mainClass": "Heladeria",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Laboratorio6",
+            "request": "launch",
+            "mainClass": "Laboratorio6",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Promocionserviteca2",
+            "request": "launch",
+            "mainClass": "Promocionserviteca2",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Proveedormusica3",
+            "request": "launch",
+            "mainClass": "Proveedormusica3",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Rep",
+            "request": "launch",
+            "mainClass": "Rep",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "Sw",
+            "request": "launch",
+            "mainClass": "Sw",
+            "projectName": "hola mundo_842932a2"
+        },
+        {
+            "type": "java",
+            "name": "arrb2",
+            "request": "launch",
+            "mainClass": "arrb2",
+            "projectName": "hola mundo_842932a2"
+        }
+    ]
+}
